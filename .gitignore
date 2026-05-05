@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.DS_Store
+*.docx
+# Ignore large image outputs if needed, but keeping them for now as they were in status
+# output.png
+# output1.png
